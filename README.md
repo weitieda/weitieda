@@ -2,12 +2,11 @@
 
 ### Hi there 👋 I'm Tieda. 
 
-- ### 👨‍💻 🎯 📱 🖥 
+## 🎯 👨‍💻 📱 🖥 
 
-- ### ♥️ 🎹 🎸 📷 🏓 🏀 🏂
+## ♥️ 🎹 🎸 📷 🏓 🏀 🏂
 
-<br />
-
+******
 
 [<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />][linkedin] 
 [<img align="left" alt="Instagram" width="33px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />][instagram]
