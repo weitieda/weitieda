@@ -1,9 +1,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weitieda&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
-### I'm Tieda. 
+### Hi there 👋 I'm Tieda. 
 
 🎯 Focusing on Swift and iOS/macOS/tvOS
 
 ♥️ 🎹 🎸 📷
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][wwww.linkedin.com/tieda]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][www.instagram.com/twei3]
