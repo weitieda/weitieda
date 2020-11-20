@@ -10,9 +10,9 @@
 
 #
 
-[<img align="left" alt="Youtube" width="33px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png" />][ytb] 
 [<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />][linkedin] 
 [<img align="left" alt="Instagram" width="33px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Youtube" width="33px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png" />][ytb]
 
 [instagram]: https://instagram.com/twei3
 [linkedin]: https://linkedin.com/in/tieda
