@@ -2,9 +2,9 @@
 
 ### 👋 I'm Tieda. 
 
-<img scr="../asset/hi.gif" />
-
 ### 🎯 👨‍💻 📱 🖥 
+
+<img src="../asset/hi.gif" width="30 px"/>
 
 ### ♥️ 🎹 🎸🥁 📷 🏓 🏀 🏂
 
