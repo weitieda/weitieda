@@ -1,10 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weitieda&show_icons=true&icon_color=4f95f0&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
-### 👋 I'm Tieda. 
+### <img src="asset/hi.gif" width="30 px"/> I'm Tieda. 
 
 ### 🎯 👨‍💻 📱 🖥 
-
-<img src="../asset/hi.gif" width="30 px"/>
 
 ### ♥️ 🎹 🎸🥁 📷 🏓 🏀 🏂
 
